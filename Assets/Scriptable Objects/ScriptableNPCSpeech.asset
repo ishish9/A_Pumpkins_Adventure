@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 262b388081b8ea4479680b96ce31cec9, type: 3}
+  m_Name: ScriptableNPCSpeech
+  m_EditorClassIdentifier: 
+  npcWouldLikeApple0: APple!
+  npcWouldLikeApple1: Apple?
+  npcWouldLikeApple2: Give me Apple!
+  npcWouldLikeApple3: No Apple? WHy?
+  npcWouldLikeApple4: Give me GIve me!
+  npcWouldLikeApple5: oh whats that!? You have something for me to eat.
+  npcWouldLikeApple6: Give me that!!! nuum, nuum, nuum
+  npcWouldLikeApple7: Thanks heres something for your troubles.
+  npcWouldLikeApple8: Tasty apple!
+  npcWouldLikeApple9: Its a good book, hope you like it!
+  npcWouldLikeApple10: Have anymore apples?
+  npcWouldLikeBook0: Sure wish I had a good book to read while fishing.
+  npcWouldLikeBook1: Great night for fishing.
+  npcWouldLikeBook2: Haven't caught anything yet.
+  npcWouldLikeBook3: Quiet night ...
+  npcWouldLikeBook4: No bites yet
+  npcWouldLikeBook5: Hope I catch something soon.
+  npcWouldLikeBook6: Really!? A book for me ?. . . why thank you!
+  npcWouldLikeBook7: Hay you can have this, I found it while fishing.
+  npcWouldLikeBook8: Thanks for the book.
+  npcLostKey0: 'Hmm...Now where did I put my keys? '
+  npcLostKey1: Hmm.... Where did I put it?
+  npcLostKey2: I just got done fishing . . . where could my keys be?
+  npcLostKey3: Have you seen any keys laying around?
+  npcLostKey4: Oh wow! My key, thanks!
+  npcLostKey5: All I have in return is another key, here take it.
+  npcLostKey6: Thanks again for finding my key.
+  npcMourn0: Poor Jack.
+  npcMourn1: I'd like to be alone now.
+  npcMourn2: Did you know him?
+  npcMourn3: .........

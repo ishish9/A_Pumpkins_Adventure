@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e499e7029de957c4785faeae3ca1e081, type: 3}
+  m_Name: ScriptableAudioClips
+  m_EditorClassIdentifier: 
+  Move: {fileID: 0}
+  Jump: {fileID: 8300000, guid: 7d557856f2092d94fa74342e06557144, type: 3}
+  JumpDouble: {fileID: 8300000, guid: fd500456604fc474b85a2bd599e455ba, type: 3}
+  Land: {fileID: 8300000, guid: 6477295c2eecf9f489571e7d4c174648, type: 3}
+  Stomp: {fileID: 8300000, guid: 49327e4f3a221a54781fdb60890d7d1b, type: 3}
+  Fall: {fileID: 8300000, guid: 2d6460ccc72169a4fa31219e28b54ad3, type: 3}
+  CollectSeed: {fileID: 8300000, guid: 4d63f939ca0e619498927b93d58aac0c, type: 3}
+  CollectCoin: {fileID: 8300000, guid: ad66b4d927c6fb64ea46a05b703b99c8, type: 3}
+  CollectCoinBush: {fileID: 8300000, guid: 7c2efad634b3a5d4eb9ec6795b87670d, type: 3}
+  BushShake: {fileID: 8300000, guid: b0c1b7a16983d8942b6451fb447d59ad, type: 3}
+  GetPowerUp: {fileID: 8300000, guid: 70dcde3137be229488c6ebaf140bf07e, type: 3}
+  InventoryPickup: {fileID: 8300000, guid: a33e70a4c2b97544d8b19e95b8dc43a2, type: 3}
+  ChestOpen: {fileID: 8300000, guid: dcf4a9fea0256004a92627da65fa409b, type: 3}
+  TaDa: {fileID: 8300000, guid: c94bda60cdaeccd4f8b68e4f4d098036, type: 3}
+  TaDaBad: {fileID: 8300000, guid: 54445fd99bcaf6545a5aa2ac543d6f9b, type: 3}
+  CreekyDoorOpen: {fileID: 8300000, guid: 120aaa3606b513b4c9777e7134736365, type: 3}
+  LockedGate: {fileID: 8300000, guid: 67b6f94b7d5f8844f9894064fa88abdb, type: 3}
+  creakOpen: {fileID: 8300000, guid: 3914e424ac9d93143a6c30ec86852d8e, type: 3}
+  creakClose: {fileID: 8300000, guid: 9b459fd7a2437144fa55a78c433a6c18, type: 3}
+  Wind: {fileID: 8300000, guid: 347a1c6bfa7e3ef42a4e8b49e191cd40, type: 3}
+  LevelTransitionIn: {fileID: 8300000, guid: 67d80d77837151348a990aca627dedf3, type: 3}
+  LevelTransitionOut: {fileID: 8300000, guid: ac31d2e40da688e4ea7ed557205d67c2, type: 3}
+  StartButtonClick: {fileID: 8300000, guid: c37eeb0ce26827b4fb4c653987255dfc, type: 3}
+  Switch1: {fileID: 8300000, guid: 206f8bb71a5b66347b06468499273019, type: 3}
+  DungeonGateOpen: {fileID: 8300000, guid: 34a0466f4002d134493b7e9bec2f3396, type: 3}
+  LavaFall: {fileID: 8300000, guid: 9c7f5ad62effa334ba2d6d4c1c8809b1, type: 3}
+  LibraryMusic: {fileID: 0}
+  NPCSpeech_Start: {fileID: 8300000, guid: e5414ff1c24c81f488faae84c8c565c0, type: 3}
+  NPCSpeech_End: {fileID: 8300000, guid: 4eb3249c1893e1c4593fe7fb7a471050, type: 3}
+  DialogueAdvance: {fileID: 8300000, guid: 90f051e1233b67f479d19d95ca910722, type: 3}
+  DialogueEnd: {fileID: 8300000, guid: 2114b2891fa7ca1409cb13bab195f048, type: 3}
+  AcquireItem: {fileID: 8300000, guid: 26f6ecd0798ffca49aca5d5d03fb1f98, type: 3}
+  Rat_Hit: {fileID: 8300000, guid: 9280b9e625122164282c73e78699931b, type: 3}
+  Rat_Death: {fileID: 8300000, guid: c655d4b35ceba7c498146297b6eacc85, type: 3}

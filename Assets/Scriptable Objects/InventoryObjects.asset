@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa0c716879003854f8fad2d9faf8010a, type: 3}
+  m_Name: InventoryObjects
+  m_EditorClassIdentifier: 
+  Apple: {fileID: 5458279096621667376, guid: 5ed75c585c4c4034087ac8f64c6dd4d3, type: 3}
+  Book: {fileID: 8108614696186224333, guid: 550a27a56b07f1e47b2ca570773b97c2, type: 3}
+  Key: {fileID: 2435208350491555381, guid: 9c88393396a370446a095dc3983d8318, type: 3}
+  GraveKey: {fileID: 2435208350491555381, guid: 0859e9b3ef6fc2e449d655d5d7ed0b90, type: 3}
+  GoldBone: {fileID: 3091047977049925952, guid: 5991ac8acd6cba44384db0e3fef8f038, type: 3}
+  apple: 1
+  book: 1
+  keyHouse: 1
+  keyGrave: 0
+  bone: 0
+  appleAmount: 152
+  bookAmount: 5
+  keyHouseAmount: 11
+  keyGraveAmount: 0
+  boneAmount: 0
+  gold: 0
+  seeds: 0
