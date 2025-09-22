@@ -3,6 +3,20 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
+/[Aa]ssets/[Aa]llIn1VfxToolkit/
+/[Aa]ssets/[Bb]itgem/
+/[Aa]ssets/[Cc]ube World Set URP - Proto Series/
+/[Aa]ssets/[Dd]inoFracture/
+/[Aa]ssets/[Dd]ynamicMeshCutter/
+/[Aa]ssets/[Gg]hostCharacter_Free/
+/[Aa]ssets/[Hh]oly Assets Games/
+/[Aa]ssets/[Kk]UBIKOS - World/
+/[Aa]ssets/[Ll]iquidFire Package 4 - BSH games/
+/[Aa]ssets/[Pp]olyart/
+/[Aa]ssets/[Pp]olyperfect/
+/[Aa]ssets/[Rr]utz/
+/[Aa]ssets/[Ss]tylized Grass Shader/
+/[Aa]ssets/[Tt]ree_Textures/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
