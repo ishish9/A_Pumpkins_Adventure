@@ -88,7 +88,7 @@ public class ScoreKeeper : MonoBehaviour
                 CoinDisplay.text = coins.ToString();
                 coinDisplayInventory.text = coins.ToString();
 
-                yield return new WaitForSeconds(.01f);
+                yield return new WaitForSeconds(.05f);
 
             }
             StartCoroutine(updateCoinScore());
